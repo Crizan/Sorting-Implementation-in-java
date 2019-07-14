@@ -3,5 +3,5 @@
 - Bubble Sort,
 - Selection Sort,
 - Insertion Sort, 
-- Quick Sort,
+- Quick Sort and
 - Merge Sort
